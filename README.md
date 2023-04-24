@@ -1,4 +1,6 @@
 ## Fauda
+[PLAY THE GAME ON ITCH](https://amitmelamed.itch.io/fauda)
+
 We Implemented basic First Person Shooter mechanics without animations.
 We have the ability to move, look and fire object include detection and activate a function at the object that got hit.
 # Player Controller
