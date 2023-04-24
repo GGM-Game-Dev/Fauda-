@@ -1,7 +1,7 @@
 ## Fauda
 We Implemented basic First Person Shooter mechanics without animations.
 We have the ability to move, look and fire object include detection and activate a function at the object that got hit.
-#Player Controller
+# Player Controller
 Will control the player using a player controller component and inputs of WASD keys and mouse.
 We added the ability to jump by adding velocity to our player.
 Movement and gravity script:
