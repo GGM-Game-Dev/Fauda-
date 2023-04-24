@@ -1,4 +1,4 @@
-## Fauda
+# Fauda
 [PLAY THE GAME ON ITCH](https://amitmelamed.itch.io/fauda)
 
 We Implemented basic First Person Shooter mechanics without animations.
